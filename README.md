@@ -1,6 +1,6 @@
 # jpa02-KateUnger
 
-Repo: https://ucsb-cs156-f23/jpa02-KateUnger
+Repo: https://github.com/ucsb-cs156-f23/jpa02-KateUnger
 
 Deployed at: http://jpa02-kateunger.dokku-11.cs.ucsb.edu/
 
